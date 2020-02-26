@@ -15,7 +15,7 @@ Find all the set $S_{y}^{t}$ which stasfied the following condition:
 ##### Train of thought:
 
 Given a number $n_{x}$ :
-$$ 
+$$
 S_{y}^{t}=\left\{ n_{x} \right\} \bigcup S_{y-1}^{t-n_{x}}(eq1)
 $$
 
